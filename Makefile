@@ -1,3 +1,3 @@
 run:
-	REDIRECT_URL=https://localhost:8000/redirect \
+	REDIRECT_URL=http://localhost:8000/redirect \
 	go run .
